@@ -7,7 +7,7 @@
 		"dockerfile": "Dockerfile",
 		// Update 'VARIANT' to pick a Node version
 		"args": { "VARIANT": "18" }
-	},
+	},7141774cd69bd5342728623618cce884faf6804c
 
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
